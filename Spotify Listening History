@@ -1,0 +1,11 @@
+TopSpotifySongs.pbix — Power BI Desktop report (sanitized / sample-ready).
+
+data_sample.csv — sample rows so reviewers can open and refresh without credentials.
+
+Measures.md — catalog of DAX measures, purpose and usage (copy-ready).
+
+ModelDiagram.png — screenshot of the data model (relationships & star-schema view).
+
+Insights.pdf — 1–2 page executive summary with key visuals (PNG exports).
+
+README.md — (this file).
